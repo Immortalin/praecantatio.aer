@@ -1,5 +1,5 @@
 # praecantatio.aer
-Miniature radial jet engine
+Miniature radial jet engine kit
 
 <ul>
 <li>Nominal thrust: 8kg
